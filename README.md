@@ -7,4 +7,4 @@ Natural Language Processing Practice
 
 
 ## References
-- [인공지능 기반 텍스트 빅데이터 분석과 활용](https://wikidocs.net/book/6280)
+- [인공지능 기반 텍스트 빅데이터 분석과 활용(유병주)](https://wikidocs.net/book/6280)
